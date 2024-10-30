@@ -113,13 +113,7 @@ tally2.scores = ["flux"]
 tallies_file.append(tally2)
 
 
-
-
-
-#Oppagve I thermal utilization factor
-
 # Resonance Escape Probability tallies
-
 therm_abs_rate = openmc.Tally(name='therm. abs. rate')
 therm_abs_rate.scores = ['absorption']
 therm_abs_rate.filters = [openmc.EnergyFilter([0., 0.625])]
