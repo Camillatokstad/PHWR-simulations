@@ -1,4 +1,4 @@
-# PWR simulation with OpenMC
+# PHWR simulation with OpenMC
 
 This repository contains simulations for analyzing neutron flux distribution, criticality, and depletion in a nuclear reactor core using Monte Carlo particle transport methods. The goal is to explore key parameters and reactor designs to achieve and maintain criticality over time, using OpenMC as the primary simulation tool.
 
