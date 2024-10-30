@@ -1,1 +1,1 @@
-# Reaktorsimulering
+# PWR simulation with OpenMC
